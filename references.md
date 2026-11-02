@@ -57,3 +57,26 @@
   Uses tactile feedback for prediction and rapid correction during contact-rich manipulation.  
   [arXiv](https://arxiv.org/abs/2607.07287)  
   DOI: [10.48550/arXiv.2607.07287](https://doi.org/10.48550/arXiv.2607.07287)
+
+- **Li et al. (2024)** — *When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors From the Signal Processing Perspective*  
+  Review of visuotactile sensors and signal-processing methods for combining visual and tactile information.  
+  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10563188)  
+  DOI: [10.1109/JSTSP.2024.3416841](https://doi.org/10.1109/JSTSP.2024.3416841)
+
+- **Hu et al. (2024)** — *Learning to detect slip through tactile estimation of the contact force field and its entropy properties*  
+  Uses tactile contact-force information and machine learning to detect slip during grasping and manipulation.  
+  [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957415824001235)  
+  DOI: [10.1016/j.mechatronics.2024.103258](https://doi.org/10.1016/j.mechatronics.2024.103258)
+
+- **Cuan, Okamura and Khansari (2024)** — *Leveraging Haptic Feedback to Improve Data Quality and Quantity for Deep Imitation Learning Models*  
+  Shows that haptic feedback during teleoperated data collection can improve demonstration quality and downstream imitation-learning performance.  
+  [IEEE Xplore](https://ieeexplore.ieee.org/document/10490256/)  
+  DOI: [10.1109/TOH.2024.3384482](https://doi.org/10.1109/TOH.2024.3384482)
+
+- **SlipSense** — *Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection*  
+  Investigates multimodal tactile learning for low-latency and generalised slip detection.  
+  [Project page](https://tjian-ai.github.io/corl26-slipsense/)
+
+- **Touch2Trace** — *Tactile-Driven Imitation Learning for Dexterous Cable Tracing*  
+  Tactile-driven imitation-learning system for dexterous cable tracing using tactile sensing and proprioception.  
+  [Project page](https://grmmtt.github.io/corl26-touch2trace/)

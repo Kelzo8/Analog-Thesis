@@ -22,3 +22,8 @@
 - Created GitHub repository.
 - Added initial project files.
 - Reviewed supervisor requirements for meetings, repository organisation, report writing, and publication planning.
+
+### 2/10/26
+
+- Found 5 more relevevant resources to help strenghten my literature review. Two of which are past projects within Analog which are related to my thesis. 
+- Still haven't started working on the project so just working on having a solid introduction, literature review and skeleton for the thesis 

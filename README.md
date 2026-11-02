@@ -17,8 +17,8 @@ To what extent does adding tactile feedback to visual and robot-state observatio
 
 - [x] Create GitHub repository
 - [x] Add project structure
-- [ ] Complete initial literature review
-- [ ] Confirm robot platform, sensors, and task setup
+- [x] Complete initial literature review
+- [x] Confirm robot platform, sensors, and task setup
 - [ ] Implement data-collection pipeline
 - [ ] Collect demonstration data
 - [ ] Train baseline and visuo-tactile models
