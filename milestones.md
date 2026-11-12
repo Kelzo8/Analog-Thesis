@@ -32,4 +32,4 @@
 - Had first meeting with James outlining the plan and goal for the interim report along with the rest of the students he's supervising. 
 - Still waiting to gain access to repos and tools for testing in Analog. Currently just finishing up onboarding courses.
 - Plan is to have a strong literature review, introduction, methodolgy and plan for how the project will be conducted.
-- Also plan on going it with my manager, so he's happy with progress and plan for the project.
+- Also plan on showing it to my manager, so he's happy with progress and plan for the project.
