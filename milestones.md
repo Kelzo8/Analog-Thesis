@@ -27,3 +27,9 @@
 
 - Found 5 more relevevant resources to help strenghten my literature review. Two of which are past projects within Analog which are related to my thesis. 
 - Still haven't started working on the project so just working on having a solid introduction, literature review and skeleton for the thesis 
+
+### 12/10/26
+- Had first meeting with James outlining the plan and goal for the interim report along with the rest of the students he's supervising. 
+- Still waiting to gain access to repos and tools for testing in Analog. Currently just finishing up onboarding courses.
+- Plan is to have a strong literature review, introduction, methodolgy and plan for how the project will be conducted.
+- Also plan on going it with my manager, so he's happy with progress and plan for the project.
