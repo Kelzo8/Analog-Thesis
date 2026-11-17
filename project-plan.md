@@ -39,3 +39,12 @@ The project will use the Franka-based robotic platform available through the Ana
 - Test performance when the camera view is partially obscured.
 - Record and analyse slip and dropped-object failures.
 - Measure whether tactile feedback is worth the extra integration and computation.
+
+## Methodology Update — 17/11/26
+
+- Train the models using behaviour cloning from the same demonstration episodes and fixed episode-level data splits.
+- Start with modality-specific encoders and simple feature-level fusion.
+- Prioritise the vision-and-robot-state baseline versus the visuo-tactile model.
+- Use simulation for development and physical-robot trials for validation.
+- Confirm the exact sensors, action format, demonstration method, object set, and trial counts after platform access.
+- Keep advanced fusion methods as optional extensions.

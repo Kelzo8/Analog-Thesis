@@ -18,7 +18,10 @@ To what extent does adding tactile feedback to visual and robot-state observatio
 - [x] Create GitHub repository
 - [x] Add project structure
 - [x] Complete initial literature review
-- [x] Confirm robot platform, sensors, and task setup
+- [x] Define the research question, aim, objectives, and hypothesis
+- [x] Define the proposed grasp-and-transport task and success criteria
+- [x] Specify the planned models, system architecture, and evaluation approach
+- [ ] Confirm robot platform, sensors, and task setup
 - [ ] Implement data-collection pipeline
 - [ ] Collect demonstration data
 - [ ] Train baseline and visuo-tactile models

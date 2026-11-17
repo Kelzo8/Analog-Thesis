@@ -3,9 +3,9 @@
 | Milestone | Target | Status | Notes |
 |---|---|---|---|
 | Create GitHub repository | October 2026 | Complete | Initial project files added |
-| Confirm meeting schedule | October 2026 | In progress | Check Wednesday availability |
-| Initial literature review | November 2026 | In progress | Focus on tactile sensing and visuo-tactile manipulation |
-| Confirm task and success criteria | November 2026 | Not started | Define grasp-and-transport setup |
+| Confirm meeting schedule | October 2026 | Complete | Tuesday Meetings |
+| Initial literature review | November 2026 | Complete | Initial review completed for the interim report |
+| Confirm task and success criteria | November 2026 | Complete | Grasp-and-transport task and proposed success/failure criteria documented |
 | Implement data pipeline | November 2026 | Not started | Record and align vision, tactile, and robot-state data |
 | Collect pilot recordings | November 2026 | Not started | Check sensor synchronisation |
 | Collect demonstrations | December 2026–January 2027 | Not started | Include varied objects and grasp conditions |
@@ -33,3 +33,12 @@
 - Still waiting to gain access to repos and tools for testing in Analog. Currently just finishing up onboarding courses.
 - Plan is to have a strong literature review, introduction, methodolgy and plan for how the project will be conducted.
 - Also plan on showing it to my manager, so he's happy with progress and plan for the project.
+
+### 17/11/26
+
+- Working on the interim report, including the literature review, requirements, proposed architecture, methodology, evaluation plan, and risk register.
+- Refined the project to focus on whether tactile feedback improves grasp-and-transport beyond vision and robot-state information.
+- Selected behaviour cloning and simple feature-level fusion as the initial approach, with three planned input configurations: vision and state, tactile and state, and all three together.
+- Planned comparisons of task success, robustness to occlusion and contact changes, and inference cost.
+- No implementation or experimental results yet, development and hardware access are still being established.
+- Next: confirm the available tools and sensor interfaces, then build the recording pipeline and collect pilot episodes to check synchronisation.
